@@ -50,3 +50,13 @@ footer{
     color: black;
     padding: 10px;
 }
+
+.git-link{
+    text-decoration: none;
+    color: red;
+    font-size: 1.5rem;
+}
+
+.git-link:hover{
+    color: orange;
+}
